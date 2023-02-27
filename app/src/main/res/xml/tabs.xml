@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+    <tab
+        drawable="@drawable/ic_launcher_background"
+        text="Hello" />
+
+    <tab
+        drawable="@drawable/ic_launcher_background"
+        text="Hello" />
+
+    <tab
+        drawable="@drawable/ic_launcher_background"
+        text="Hello" />
+
+    <tab
+        drawable="@drawable/ic_launcher_background"
+        text="Hello" />
+
+    <tab
+        drawable="@drawable/ic_launcher_background"
+        text="Hello" />
+</Tabs>
